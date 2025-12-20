@@ -1,0 +1,59 @@
+using AftermathMod.Content.Items.Weapons;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Terraria;
+using Terraria.DataStructures;
+using Terraria.GameContent;
+using Terraria.ModLoader;
+
+public class PlayerLayerHeldGlowmask : PlayerDrawLayer
+{
+    public override Position GetDefaultPosition() => new AfterParent(PlayerDrawLayers.HeldItem);
+
+    protected override void Draw(ref PlayerDrawSet drawInfo)
+    {
+        Texture2D texture = null;
+
+        int Item = drawInfo.heldItem.type;
+
+        Player player = drawInfo.drawPlayer;
+
+        Vector2 position = drawInfo.Center - Main.screenPosition;
+
+        float rotation = 0f;
+
+        position = new Vector2((int)position.X, (int)position.Y);
+
+        if (player.direction == -1)
+        {
+            rotation = player.itemRotation - MathHelper.PiOver2;
+        }
+        else
+        {
+            rotation = player.itemRotation;
+        }
+
+        
+        if (Item == ModContent.ItemType<Annihilation>())
+        {
+            texture = ModContent.Request<Texture2D>("AftermathMod/Content/Items/Weapons/Annihilation_glow").Value;
+        }
+        else if (Item == ModContent.ItemType<Gammadisc>())
+        {
+            texture = ModContent.Request<Texture2D>("AftermathMod/Content/Items/Weapons/Gammadisc_glow").Value;
+        }
+        else
+        {
+            texture = ModContent.Request<Texture2D>("AftermathMod/Content/Items/Weapons/Revolution").Value;
+        }
+
+        if (Terraria.Item.staff[Item] == true)
+        {
+            drawInfo.DrawDataCache.Add(new DrawData(texture, position, null, new Color(255, 255, 255, drawInfo.heldItem.alpha), rotation + MathHelper.PiOver4, texture.Size() * 0.5f, player.GetAdjustedItemScale(drawInfo.heldItem), SpriteEffects.None, 0f));
+        }
+        else
+        {
+            drawInfo.DrawDataCache.Add(new DrawData(texture, position, null, new Color(255, 255, 255, drawInfo.heldItem.alpha), rotation, texture.Size() * 0.5f, player.GetAdjustedItemScale(drawInfo.heldItem), SpriteEffects.None, 0f));
+        }   
+    }
+}

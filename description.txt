@@ -1,0 +1,14 @@
+Aftermath is a mod which aims to add new content throughout the entirety of Terraria's progression. Currently, it is almost exclusively combat oriented, however I intend to introduce other kinds of features in the future.
+
+Multiplayer support is coming soon-ish (hopefully)
+
+Aftermath Mod adds:
+-4 Bosses (+ 1 boss minion)
+-1 Miniboss
+-70+ Items
+-3 Buffs/Debuffs
+-1 Original boss theme (shared by 2 of the bosses)
+-Boss Checklist support
+
+Join the discord for info about upcoming updates and more!
+https://discord.gg/RdFSEKtCVs

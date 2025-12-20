@@ -1,0 +1,635 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Sword: {
+		DisplayName: Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	EternalShade: {
+		DisplayName: Eternal Shade
+		Tooltip:
+			'''
+
+			Lights out.
+			'''
+	}
+
+	FrostRing: {
+		DisplayName: Frost Ring
+		Tooltip:
+			'''
+			Shoots a ring of ice spikes
+			The main spike travels faster and can pierce through more foes
+
+			'''
+	}
+
+	AntimatterCore: {
+		DisplayName: Antimatter Core
+		Tooltip: ""
+	}
+
+	AntimatterLeggings: {
+		DisplayName: Antimatter Leggings
+		Tooltip:
+			'''
+			60% increased movement speed
+			40% increased jump speed
+			'''
+	}
+
+	AntimatterShell: {
+		DisplayName: Antimatter Shell
+		Tooltip: 25% increased damage
+	}
+
+	AntimatterHelmet: {
+		DisplayName: Antimatter Helmet
+		Tooltip:
+			'''
+			19% increased critical strike chance
+			8% reduced mana cost
+			'''
+	}
+
+	Subversion: {
+		DisplayName: Subversion
+		Tooltip: ""
+	}
+
+	Annihilation: {
+		DisplayName: Annihilation
+		Tooltip: ""
+	}
+
+	Gammadisc: {
+		DisplayName: Gammadisc
+		Tooltip: ""
+	}
+
+	Hyperobsidian: {
+		DisplayName: Hyperobsidian
+		Tooltip: ""
+	}
+
+	ShadedBar: {
+		DisplayName: Shaded Bar
+		Tooltip: Hallowed Bar's evil twin
+	}
+
+	BoulderSword: {
+		DisplayName: Boulder Sword
+		Tooltip: WARNING, May damage town NPCs!
+	}
+
+	Nightpiercer: {
+		DisplayName: Nightpiercer
+		Tooltip:
+			'''
+			Shoots a ball of dark energy
+			Its velocity and piercing increase with the sword's damage
+			'''
+	}
+
+	Hydroscales: {
+		DisplayName: Hydroscales
+		Tooltip: The key to the Sea Dragons' might
+	}
+
+	VoidClaymore: {
+		DisplayName: Void Claymore
+		Tooltip: ""
+	}
+
+	TrackingDevice: {
+		DisplayName: Tracking Device
+		Tooltip:
+			'''
+			Broadcasts your position to... somewhere
+
+			You probably shouldn't use this near your home
+
+			Only works during nighttime
+			'''
+	}
+
+	AnniBow: {
+		DisplayName: Firestorm
+		Tooltip:
+			'''
+			Shoots a flare arrow that calls an airstrike on impact
+
+			Does not consume ammo
+			'''
+	}
+
+	FrostRingClone: {
+		DisplayName: Frost Ring Clone
+		Tooltip: ""
+	}
+
+	BronzeBar: {
+		DisplayName: Bronze Bar
+		Tooltip: ""
+	}
+
+	BronzePickaxe: {
+		DisplayName: Bronze Pickaxe
+		Tooltip: ""
+	}
+
+	MetallicFragments: {
+		DisplayName: Metallic Fragments
+		Tooltip: ""
+	}
+
+	RingBracelet: {
+		DisplayName: Ring Bracelet
+		Tooltip:
+			'''
+			It's a bracelet that looks like a ring bracelet!
+			8% increased critical strike chance
+			Summons two plasma balls that will orbit around you
+			'''
+	}
+
+	BronzeGladius: {
+		DisplayName: Bronze Gladius
+		Tooltip: ""
+	}
+
+	BronzeJavelin: {
+		DisplayName: Bronze Javelin
+		Tooltip: ""
+	}
+
+	TreasureBagEvilRings: {
+		DisplayName: Treasure Bag (I2-W, The Mechanical Watcher)
+		Tooltip: Right Click to open
+	}
+
+	Observer: {
+		DisplayName: Observer
+		Tooltip: ""
+	}
+
+	PocketLightning: {
+		DisplayName: Pocket Lightning
+		Tooltip: ""
+	}
+
+	Revolution: {
+		DisplayName: Revolution
+		Tooltip: ""
+	}
+
+	Wisdom: {
+		DisplayName: Wisdom
+		Tooltip: ""
+	}
+
+	Disappointment: {
+		DisplayName: Disappointment
+		Tooltip: ""
+	}
+
+	Snowblast: {
+		DisplayName: Snowblast
+		Tooltip: ""
+	}
+
+	BronzeChainmail: {
+		DisplayName: Bronze Chainmail
+		Tooltip: Slightly increased life regeneration
+	}
+
+	BronzeGreaves: {
+		DisplayName: Bronze Greaves
+		Tooltip: 15% increased movement speed
+	}
+
+	BronzeHelmet: {
+		DisplayName: Bronze Helmet
+		Tooltip: 10% increased damage
+	}
+
+	BronzeHamaxe: {
+		DisplayName: Bronze Hamaxe
+		Tooltip: ""
+	}
+
+	BronzeBroadsword: {
+		DisplayName: Bronze Broadsword
+		Tooltip: ""
+	}
+
+	BronzeShortbow: {
+		DisplayName: Bronze Shortbow
+		Tooltip: Occasionally shoots an extra arrow
+	}
+
+	HandheldCommandStation: {
+		DisplayName: Handheld Command Station
+		Tooltip: ""
+	}
+
+	MushroomNucleus: {
+		DisplayName: Mushroom Nucleus
+		Tooltip:
+			'''
+			Summons the Spore Guardian
+			Enrages outside the Glowing Mushroom biome
+			Enrages on the Surface
+			'''
+	}
+
+	RelicofTruth: {
+		DisplayName: Relic of Truth
+		Tooltip:
+			'''
+			40% increased acceleration
+			12% increased movement speed
+			10% increased jump speed
+			Grants +10% max health
+			6% increased critical strike chance
+			Increases armor penetration by 3
+			'''
+	}
+
+	TalismanofPassion: {
+		DisplayName: Talisman of Passion
+		Tooltip:
+			'''
+			40% increased acceleration
+			12% increased movement speed
+			10% increased jump speed
+			'''
+	}
+
+	TalismanofPerseverance: {
+		DisplayName: Talisman of Perseverance
+		Tooltip: Grants +10% max health
+	}
+
+	TalismanofPrecision: {
+		DisplayName: Talisman of Precision
+		Tooltip:
+			'''
+			6% increased critical strike chance
+			Increases armor penetration by 3
+			'''
+	}
+
+	TreasureBagSporeGuardian: {
+		DisplayName: Treasure Bag (Spore Guardian)
+		Tooltip: Right Click to open
+	}
+
+	ReinforcedMushroot: {
+		DisplayName: Reinforced Mushroot
+		Tooltip: ""
+	}
+
+	DruidsSupernaturalSuperbrew: {
+		DisplayName: Druid's Supernatural Superbrew
+		Tooltip:
+			'''
+			15% increased melee speed
+			Grants you more life regen the lower your health
+			'''
+	}
+
+	SecondChance: {
+		DisplayName: Second Chance
+		Tooltip:
+			'''
+			Grants +80 max health
+			15% chance to dodge attacks
+			The dodge doesn't have a cooldown
+
+			Might contain multiple chances!
+			'''
+	}
+
+	DraconicAquashield: {
+		DisplayName: Draconic Aquashield
+		Tooltip:
+			'''
+			Allows the ability to dash through enemies
+			Shoots damaging water droplets into the air when dashing
+			'''
+	}
+
+	LightPole: {
+		DisplayName: Light Pole
+		Tooltip: This item is loud - Right click to mute.
+	}
+
+	RedStreetlight: {
+		DisplayName: Red Streetlight
+		Tooltip: This item is VERY loud - Right click to mute.
+	}
+
+	JournalPage1: {
+		DisplayName: Journal Page 1
+		Tooltip:
+			'''
+			An old paper page found amidst the scrap
+			-----
+			"In a land engulfed in chaos, it is only natural that many
+			will try seizing power. Winning the war is not enough, order
+			must be estabilished. The faction has already begun construction.
+			The STRENGTH of the flame is more than admirable.
+			.
+			I just wish the glare didn't look so familiar.
+			I can't let this happen again."
+			-----
+			The rest is either illegible or too damaged.
+			'''
+	}
+
+	JournalPage2: {
+		DisplayName: Journal Page 2
+		Tooltip:
+			'''
+			An old paper page found amidst the scrap
+			-----
+			"Made to gather information, nothing escapes its gaze. These
+			resources are being fed back into the machines to achieve
+			perfect WISDOM, although only "3E" can process them efficiently.
+			Perhaps they are growing far too wise, as I have been receiving
+			an increasing amount of reports on strange errors and sometimes even-"
+			-----
+			The page ends here.
+			'''
+	}
+
+	Kaleidotelescope: {
+		DisplayName: Kaleidotelescope
+		Tooltip:
+			'''
+			Summons Stargazer
+			Can only be used during nighttime
+			'''
+	}
+
+	TreasureBagStargazer: {
+		DisplayName: Treasure Bag (Stargazer)
+		Tooltip: Right Click to open
+	}
+
+	Tesseract: {
+		DisplayName: Tesseract
+		Tooltip: <<<Thank you for playing!>>>
+	}
+
+	Charybdis: {
+		DisplayName: Charybdis
+		Tooltip:
+			'''
+			When submerged, grants 15 defense and attacks faster
+			Right clicking envelops you in a powerful vortex at the cost of slowing you down
+			Bites enemies when striking them with the blade
+			The king of the ocean.
+			'''
+	}
+
+	TidalWrath: {
+		DisplayName: Tidal Wrath
+		Tooltip: When submerged, grants 10 defense and attacks faster
+	}
+
+	BurningEmbers: {
+		DisplayName: Burning Embers
+		Tooltip: ""
+	}
+
+	TreasureBagEverlastingFlameI1S: {
+		DisplayName: Treasure Bag (I1-S, The Everlasting Flame)
+		Tooltip: Right Click to open
+	}
+
+	EnhancedTrackingDevice: {
+		DisplayName: Enhanced Tracking Device
+		Tooltip:
+			'''
+			Broadcasts your position to... somewhere else... and more efficiently
+
+			You probably shouldn't use this near your home
+
+			Only works during nighttime
+			'''
+	}
+
+	FlamingOmen: {
+		DisplayName: Flaming Omen
+		Tooltip: Consumes gel on use
+	}
+
+	Mycolt: {
+		DisplayName: Mycolt
+		Tooltip: Converts musket balls into spore bullets, which create toxic fumes on impact
+	}
+
+	Sporay: {
+		DisplayName: Sporay
+		Tooltip: ""
+	}
+
+	GloomDrill: {
+		DisplayName: Gloom Drill
+		Tooltip: ""
+	}
+
+	TwilightRepeater: {
+		DisplayName: Twilight Repeater
+		Tooltip: Shoots an extra arrow for every 5 additional damage
+	}
+
+	Tenebris: {
+		DisplayName: Tenebris
+		Tooltip:
+			'''
+			Attacks faster the more enemies you strike
+
+			Inflicts shadowflame on hit
+			The more damage the sword does, the longer the duration
+			'''
+	}
+
+	HyphiberWings: {
+		DisplayName: Hyphiber Wings
+		Tooltip: Allows flight and slow fall
+	}
+
+	MushrootBoots: {
+		DisplayName: Mushroot Boots
+		Tooltip: 18% increased movement speed
+	}
+
+	MushrootBreastplate: {
+		DisplayName: Mushroot Breastplate
+		Tooltip:
+			'''
+			Slightly increased life regeneration
+			8% increased crit chance
+			'''
+	}
+
+	MushrootHelmet: {
+		DisplayName: Mushroot Helmet
+		Tooltip:
+			'''
+			Increases maximum mana by 90
+			15% increased magic damage
+			'''
+	}
+
+	MushrootRibbon: {
+		DisplayName: Mushroot Ribbon
+		Tooltip:
+			'''
+			Increases your max number of minions by 5
+			8% decreased summon damage
+			'''
+	}
+
+	ShadedBoots: {
+		DisplayName: Shaded Boots
+		Tooltip: 20% increased movement speed
+	}
+
+	ShadedBreastplate: {
+		DisplayName: Shaded Breastplate
+		Tooltip: 30% increased damage
+	}
+
+	ShadedHood: {
+		DisplayName: Shaded Hood
+		Tooltip:
+			'''
+			30% increased crit chance
+			Increases your max number of minions by 2
+			'''
+	}
+
+	Voucher: {
+		DisplayName: 5-Gold Voucher
+		Tooltip:
+			'''
+			It appears that the mod's developer forgot to add an expert item for this boss. 
+			Please, take this voucher instead.
+			You may exchange it at your local merchant.
+			'''
+	}
+}
+
+Projectiles: {
+	EternalShadeProjectile.DisplayName: Eternal Shade Projectile
+	FrostRingProjectile.DisplayName: Frost Ring Projectile
+	FrostRingProjectilePen.DisplayName: Frost Ring Projectile Pen
+	AnnihilationProjectileBig.DisplayName: Annihilation Projectile Big
+	AnnihilationProjectile.DisplayName: Annihilation Projectile
+	SubversionProjectileHoming.DisplayName: Subversion Projectile Homing
+	SubversionProjectile.DisplayName: Subversion Projectile
+	BeegVortex.DisplayName: Beeg Vortex
+	GammadiscHidden.DisplayName: Gammadisc Hidden
+	FriendlyBoulder.DisplayName: Friendly Boulder
+	NightpiercerProjectile.DisplayName: Nightpiercer Projectile
+	VoidClaymoreProjectile.DisplayName: Void Claymore Projectile
+	EvilRingsRing.DisplayName: Plasma Ball
+	AnniBowProjectile.DisplayName: Flare Arrow
+	FriendlyRocket.DisplayName: Friendly Rocket
+	HiddenExplosion.DisplayName: Hidden Explosion
+	HiddenGammadisc.DisplayName: Hidden Gammadisc
+	BronzeGladiusProjectile.DisplayName: Bronze Gladius Projectile
+	BronzeShard.DisplayName: Bronze Shard
+	BronzeJavelinProjectile.DisplayName: Bronze Javelin Projectile
+	EvilRingsRocket.DisplayName: Homing Missile
+	EvilRingsRingFriendly.DisplayName: Evil Rings Ring Friendly
+	SmallLaser.DisplayName: Small Laser
+	WisdomProjectile.DisplayName: Wisdom Projectile
+	ObserverProjectile.DisplayName: Observer Projectile
+	PLProjectile.DisplayName: P L Projectile
+	RevolutionProjectile.DisplayName: Revolution Projectile
+	DisappointmentProjectile.DisplayName: Disappointment Projectile
+	HiddenExplosionSnow.DisplayName: Hidden Explosion Snow
+	SporeDart.DisplayName: Spore Dart
+	WavySpore.DisplayName: Spore Fume
+	WavySporeBottom.DisplayName: Spore Fume
+	WavySporeTop.DisplayName: Spore Fume
+	DAWaterDroplet.DisplayName: D A Water Droplet
+	StargazerLaser.DisplayName: Stargazer Laser
+	StargazerBlast.DisplayName: Stardust Blast
+	StargazerLaserTelegraphed.DisplayName: Stargazer Laser
+	StargazerSparkle.DisplayName: Star Sparkle
+	RingTelegraphHelper.DisplayName: Ring Telegraph Helper
+	ShaderTest.DisplayName: Shader Test
+	StargazerBeam.DisplayName: Stargazer Beam
+	DrawHelper.DisplayName: Draw Helper
+	SGFireVortex.DisplayName: S G Fire Vortex
+	SGSmallFireball.DisplayName: S G Small Fireball
+	SGBigFireball.DisplayName: S G Big Fireball
+	CharybdisWave.DisplayName: Charybdis Wave
+	TidalWave.DisplayName: Tidal Wave
+	Projectile0.DisplayName: Projectile0
+	CharybdisTeeth.DisplayName: Charybdis Teeth
+	CharybdisVortex.DisplayName: Charybdis Vortex
+	I1SBigFireball.DisplayName: I1 S Big Fireball
+	I1SSmallFireball.DisplayName: I1 S Small Fireball
+	I1SFlamethrower.DisplayName: I1 S Flamethrower
+	I1SFlamethrowerFriendly.DisplayName: I1 S Flamethrower Friendly
+	GunSporeBullet.DisplayName: Gun Spore Bullet
+	GunSporeCloud.DisplayName: Gun Spore Cloud
+	SporayChunks.DisplayName: Sporay Chunks
+	SporaySpores.DisplayName: Sporay Spores
+	GloomDrillProjectile.DisplayName: Gloom Drill Projectile
+	NightpiercerBall.DisplayName: Nightpiercer Ball
+	TenebrisSwingProjectile.DisplayName: Tenebris Swing Projectile
+	TesseractProjectile.DisplayName: Tesseract Projectile
+}
+
+WorldGen.WorldGenTutorialOresPassMessage: Mods.AftermathMod.WorldGen.WorldGenTutorialOresPassMessage
+
+NPCs: {
+	EvilRings.DisplayName: I2-W, The Mechanical Watcher
+	SporeGuardian.DisplayName: Spore Guardian
+	SupportDrone.DisplayName: Support Drone
+	SeaDragon.DisplayName: Sea Dragon
+	Stargazer.DisplayName: Stargazer
+	EverlastingFlameI1S.DisplayName: I1-S, The Everlasting Flame
+	ShadowRune.DisplayName: Shadow Rune
+}
+
+Buffs: {
+	RingBraceletBuff: {
+		Description: The plasma balls will protect you
+		DisplayName: Plasma Balls
+	}
+
+	PainfulEnlightenment: {
+		DisplayName: Painful Enlightenment
+		Description: The dazzling radiance is overwhelming your mind
+	}
+
+	HitmanBuff: {
+		DisplayName: Hitman
+		Description: Damage to bosses and their servants is increased
+	}
+}
+
+BossChecklistLocalization: {
+	SpawnInfo: {
+		EverlastingFlameI1S: Use [i:AftermathMod/TrackingDevice] at night.
+		EvilRings: Use [i:AftermathMod/EnhancedTrackingDevice] at night.
+		SporeGuardian: Use [i:AftermathMod/MushroomNucleus] in an Underground Glowing Mushroom biome.
+		Stargazer: Use [i:AftermathMod/Kaleidotelescope] at night.
+		SeaDragon: Occasionaly spawns in the Ocean in Hardmode.
+	}
+}
